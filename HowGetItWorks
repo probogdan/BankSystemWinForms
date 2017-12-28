@@ -1,0 +1,4 @@
+First of all you need to create DATABASE. I worked in sql server management studio. Cteate BD with name of "Bank1". Then in folder "DataBase"
+you'll see sl scripts. Open it in sl server and start it. Script contains tables and stored procedures. You need to change connection path in project.
+One path were automaticly create and saved in App.config, but i use another one, in main Form. You wont miss it. I worked in Visual Studio 2015/
+You will need to add DataBase from SQL SERVER to Visual Studio(to get the right path), then copy your DB path to project. Thats should be all.
