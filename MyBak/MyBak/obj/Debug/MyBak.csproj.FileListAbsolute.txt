@@ -1,0 +1,9 @@
+c:\users\bogdan\documents\visual studio 2015\Projects\MyBak\MyBak\bin\Debug\MyBak.exe.config
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\bin\Debug\MyBak.exe
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\bin\Debug\MyBak.pdb
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\obj\Debug\MyBak.Properties.Resources.resources
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\obj\Debug\MyBak.csproj.GenerateResource.Cache
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\obj\Debug\MyBak.exe
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\obj\Debug\MyBak.pdb
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\obj\Debug\MyBak.AuthorizationForm.resources
+C:\Users\BOGDAN\documents\visual studio 2015\Projects\MyBak\MyBak\obj\Debug\MyBak.csprojResolveAssemblyReference.cache
